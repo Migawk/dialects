@@ -1,0 +1,22 @@
+/* 
+#1A120B
+#3C2A21
+#D5CEA3
+#E5E5CB
+*/
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+path {
+    fill: #D5CEA3;
+    stroke: #1A120B;
+    stroke-width: 4px;
+}
+path:hover {
+    stroke: #3C2A21;
+    fill: #E5E5CB;
+}
